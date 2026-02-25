@@ -3,6 +3,6 @@ apellido = input('Apellido: ')
 hm =int(input('Ingrese edad hermano Mayor: '))
 hn= int(input('ingrese edad hermano Menor: '))
 
-a= hm - hn
 
-print(f'nombre completo es: {nombre} {apellido} edad de hemano mayor es: {hm} y la del hermano menor es:{hn} y su diferencia de edad es de {a} años')
+
+print(f'nombre completo es: {nombre} {apellido} edad de hemano mayor es: {hm} y la del hermano menor es:{hn} y su dif {hm - hn} años')
