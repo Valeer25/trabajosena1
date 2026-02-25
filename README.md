@@ -5,7 +5,7 @@ desarrollar actividad en python y dart
   <tr>
     <td width="40%">
       <!-- Ajusta el width para el tamaño de tu foto -->
-      <img src="img.jpeg" alt="Juan David Romero" width="470px" style="border-radius: 10px;">
+      <img src="img.jpg" width="470px" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
